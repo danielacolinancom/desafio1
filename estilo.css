@@ -1,0 +1,56 @@
+body {
+    background-color: #D9AFD9;
+background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+ text-align: center;
+}
+
+img#img-anne {
+  height: 400px;
+  width: auto; 
+}
+
+div.formulario {
+    width: 450px;
+    margin: auto;
+    background-color: whitesmoke;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+button { 
+    background-color: blueviolet;
+    color: azure;
+    padding: 15px 15px;
+}
+
+div.botones { 
+    text-align: center;
+    margin-top: 1.5em;
+}
+
+label { 
+    width: 200px;
+    display: inline-block;
+
+}
+
+input { 
+    font-size: 15px;
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+
+div.form-line { 
+      margin-bottom: 10px;
+
+}
+
+select { 
+    padding: 8px 20px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
